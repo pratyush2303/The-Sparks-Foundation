@@ -1,5 +1,5 @@
 # The-Sparks-Foundation
-This is an internship program whicch has some tasks-
+This is an internship program which has some tasks-
 # Task 1-Prediction using Supervised ML
        Predict the percentage of an student based on the no. of study hours.
 # Task 2-Prediction using Unsupervised ML
